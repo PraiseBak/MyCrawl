@@ -1,0 +1,17 @@
+{
+	"html_tag": {
+		"menu_list": ".nav-depth01 a",
+		"sitemap": ".gnb-content a",
+		"article": ".news-con a",
+		"title": "h1.tit",
+		"content": ".story-news",
+		"date": ".update-time"
+	},
+	"url_access": {
+		"url": "https://www.yna.co.kr/{high_cate}/{cate}/{page}",
+		"paging_mode": "All Page",
+		"high_cate_idx": "0",
+		"low_cate_idx": "0",
+		"Start page": "1"
+	}
+}

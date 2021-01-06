@@ -1,0 +1,17 @@
+{
+	"html_tag": {
+		"menu_list": ".gnb a",
+		"sitemap": ".mkgnb_list a",
+		"article": ".tit a",
+		"title": ".top_title",
+		"content": ".art_txt",
+		"date": ".lasttime"
+	},
+	"url_access": {
+		"url": "https://www.mk.co.kr/{high_cate}/{cate}/?page={page}/",
+		"paging_mode": "All Page",
+		"high_cate_idx": "0",
+		"low_cate_idx": "0",
+		"Start page": "1"
+	}
+}

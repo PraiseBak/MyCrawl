@@ -1,0 +1,17 @@
+{
+	"html_tag": {
+		"menu_list": "div.main_section ul a",
+		"sitemap": ".lnb a",
+		"article": ".headline.mg a",
+		"title": "#article_title",
+		"content": "#article_body",
+		"date": ".byline"
+	},
+	"url_access": {
+		"url": "https://news.joins.com/{high_cate}/{cate}/list/{page}",
+		"paging_mode": "All Page",
+		"high_cate_idx": "0",
+		"low_cate_idx": "0",
+		"Start page": "1"
+	}
+}

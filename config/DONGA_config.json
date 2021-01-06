@@ -1,0 +1,17 @@
+{
+	"html_tag": {
+		"menu_list": "ul.menu_list a",
+		"sitemap": "ul.submenu_list a",
+		"article": "div.articleList a",
+		"title": "h1.title",
+		"content": "div.article_txt",
+		"date": "span.date01"
+	},
+	"url_access": {
+		"url": "https://www.donga.com/news/{high_cate}/{cate}?p={page}&prod=news&ymd=&m=",
+		"paging_mode": "All Page",
+		"high_cate_idx": "0",
+		"low_cate_idx": "0",
+		"Start page": "1"
+	}
+}

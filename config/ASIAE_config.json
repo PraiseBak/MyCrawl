@@ -1,0 +1,17 @@
+{
+	"html_tag": {
+		"menu_list": ".gnb_m a",
+		"sitemap": ".menu_list a",
+		"article": ".cont_list a",
+		"title": ".area_title > h3 ",
+		"content": "#txt_area",
+		"date": ".user_data"
+	},
+	"url_access": {
+		"url": "https://www.asiae.co.kr/list/{high_cate}/{page}",
+		"paging_mode": "All Page",
+		"high_cate_idx": "0",
+		"low_cate_idx": "0",
+		"Start page": "1"
+	}
+}
